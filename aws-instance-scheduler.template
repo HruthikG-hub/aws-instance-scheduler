@@ -134,7 +134,7 @@
         "Yes",
         "No"
       ],
-      "Description": "Create snapshot before stopping RDS instances (does not apply to Aurora Clusters)."
+      "Description": "Create snapshot before  stopping RDS instances (does not apply to Aurora Clusters)."
     },
     "MemorySize": {
       "Type": "Number",
